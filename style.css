@@ -1,0 +1,9 @@
+img {
+    width: 1000px;
+}
+
+body {
+    text-align:center;
+    font-family:Arial, Helvetica, sans-serif;
+    background:rgb(255, 145, 0);
+}
